@@ -1,4 +1,5 @@
 # react-native-kumparan
 
 UI With Tailwind
-```npm install tailwind-rn```
+
+```npm install tailwind-rn
